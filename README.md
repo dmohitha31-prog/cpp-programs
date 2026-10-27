@@ -18,3 +18,20 @@ Roll Number: 101
 Name: Mohitha
 Student object destroyed
 ```
+
+---
+
+## Program 2: Polymorphism in C++
+
+### Description
+This program demonstrates polymorphism in C++.
+
+### Source Code
+See [polymorphism.cpp](polymorphism.cpp).
+
+### Output
+```text
+Area of Circle: 78.5
+Area of Rectangle: 24
+Area of Triangle: 40
+```
